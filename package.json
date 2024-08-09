@@ -14,7 +14,7 @@
   "author": "Sweta Shaw",
   "license": "ISC",
   "dependencies": {
-    "@reclaimprotocol/witness-sdk": "^0.0.1",
+    "@reclaimprotocol/witness-sdk": "git+https://github.com/wvwatson/witness-sdk",
     "canonicalize": "^2.0.0",
     "ethers": "^5.7.2",
     "pino": "^8.11.0",
